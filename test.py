@@ -1,2 +1,3 @@
 print("hello world by ahou")
-print("bonjour")
+print("bonjour ")
+print("hello")
